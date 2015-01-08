@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\dev\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\dev\BasicNotifications\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-d9899cdd42e3e2b7fb0b789022e69322afb8836c.jar" />
+    </item>
+    <item
+        jar="D:\dev\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="D:\dev\BasicNotifications\Application\build\intermediates\pre-dexed\debug\classes-4b1f3aff56d21b40cac33dddca824e28e5c2a07e.jar" />
+    </item>
+    <item
+        jar="C:\Users\plambert\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\dev\BasicNotifications\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-4f3c125bc3307d9139427cdc624a85cc20faf800.jar" />
+    </item>
+    <item
+        jar="D:\dev\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\dev\BasicNotifications\Application\build\intermediates\pre-dexed\debug\classes-ef52b52ca6cf7c8f05a7e796b680b1da119505e7.jar" />
+    </item>
+    <item
+        jar="D:\dev\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="D:\dev\BasicNotifications\Application\build\intermediates\pre-dexed\debug\classes-4675ad292270e97e4dbee34454d98da2ea90e0fd.jar" />
+    </item>
+
+</items>
